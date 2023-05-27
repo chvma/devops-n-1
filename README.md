@@ -6,7 +6,7 @@ _____
 
 Terraform/.gitignore is created to ignore:
 
-    All local */.terraform/ directories.
+    All directories named .terraform at any nesting level.
     All *.tfstate and .tfstate. files.
     All crash log files like crash.log and crash.*.log.
     All .tfvars and .tfvars.json files, which could contain sensitive data. They should not be part of version control.
