@@ -3,10 +3,13 @@ Update CHANGELOG.md
 
 
 1. git show 85024d3
+
 tag: v0.12.23
 
 2. git show b8d720
+
 2
+
 56cd7859e05c36c06b56d013b55a252d0bb7e158 and 9ea88f22fc6269854151c571162c5bcf958bee2b
 
 3. git log 'v0.12.23'..'v0.12.24' --pretty=oneline
